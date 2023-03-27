@@ -1,8 +1,3 @@
 # Introduction-to-git-github-webcon
+## my name is irfan abdul hameed
 
-
-## Hi im suryan. And this is my first commit. 
-
-## Welcome all the participants to WebCon
-
-## Hello, I'm Arjun! Welcome to WebCon!
